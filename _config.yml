@@ -1,0 +1,37 @@
+# Site settings
+title: "Ryan J Place"
+email: rjplace9@gmail.com
+description: "My personal webpage"
+baseurl: "/website/"
+url:  "http://rjplace.github.io"
+title_description: "Masters Student (Bioinformatics) at Georgia Tech and Microbiologist with IHRC Inc./CDC"
+title_image: "https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/17309199_10158269450940447_8330947553479550804_n.jpg?oh=4d062798df8d74ffa4481b84fd2fd99f&oe=5A5BB225"
+google_analytics: "UA-20365477-4"
+disqus_account: cartenoire
+github_repository: 
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username:
+github_username:  
+instagram_username: 
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/ryan-place-51833a72
+google_plus_link: 
+stackoverflow_link: 
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: 
+footer_right: 
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
